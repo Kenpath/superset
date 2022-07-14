@@ -62,12 +62,12 @@ rat-results.txt
 superset/app/
 
 # Node.js, webpack artifacts
-*.entry.js
+# *.entry.js
 *.js.map
 node_modules
 npm-debug.log*
 # superset/static/assets
-superset/static/version_info.json
+# superset/static/version_info.json
 yarn-error.log
 
 # IntelliJ
